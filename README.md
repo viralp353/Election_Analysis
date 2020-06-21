@@ -2,7 +2,7 @@
 
 Project overview:
 --------------------------------------------
-Coloarado Board of Elections 'task
+Coloarado Board of Elections 'task.I need for perfome on follwing task.
 
 1 calculate the total number of vote.
 
@@ -17,33 +17,31 @@ Coloarado Board of Elections 'task
 Resources:
 ----------------------------------------------
 
--election_results.csv
+election_results.csv
 
--software:python,visual studio code
+software:python,visual studio code
 
-Summary
+Summary:
 ------------------------------------------------
-
-
-Election  Total Votes: 369,711
-
-Charles Casper Stockham: 23.0% (85,213)
-
-Diana DeGette: 73.8% (272,892)
-
-Raymon Anthony Doane: 3.1% (11,606)
-
-Winner: Diana DeGette
-
-Winning Vote Count: 272,892
-
-Winning Percentage: 73.8%
-
+ 
+ 
+    Election Results
+    -------------------------
+    Total Votes: 369,711
+    -------------------------
+    Charles Casper Stockham: 23.0% (85,213)
+    Diana DeGette: 73.8% (272,892)
+    Raymon Anthony Doane: 3.1% (11,606)
+    -------------------------
+    Winner: Diana DeGette
+    Winning Vote Count: 272,892
+    Winning Percentage: 73.8%
+    -------------------------
 Challenge
 ------------------------------------------------
 I got challenge for Election_Analysis.I need to use for loops and conditional statements to calculate the voter turnout for each county as well as the percentage of votes each county contributed to the election. Then, determine which county had the largest turnout.
 
-Summary_challenge code
+Summary_challenge code:
 --------------------------------------------------
 
 After Completed challenge a code look like that:
